@@ -11,4 +11,10 @@ public class Logger {
 
     }
 
+    public static String logExtra(String name){
+
+
+        return "logged Extra";
+    }
+
 }

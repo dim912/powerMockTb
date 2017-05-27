@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../equinix_dcim_code_base/DCIM-CUSTOMER-APPS/services/usermanagement-service/test/com/equinix/session/cache/dao/impl/WebSimDAOImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
